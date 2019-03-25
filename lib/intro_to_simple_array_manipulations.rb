@@ -15,12 +15,11 @@ return arr.pop(2)
  end
 
 def using_shift(arr)
-  return arr.shift(2)
+  return arr.shift
 end
 
 def shift_with_args(arr)
- newArr = arr.shift
- 
+ newArr = arr.shift(2)
 end
 
 def using_concat(arr1, arr2)
