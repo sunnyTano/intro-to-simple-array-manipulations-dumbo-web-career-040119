@@ -26,6 +26,9 @@ def using_concat(arr1, arr2)
 arr1.concat(arr2)
 end 
 
+def using_insert(arr, el)
+  
+
 # describe "#using_insert" do 
 #   before(:each) do 
 #     @list_of_esoteric_programming_languages = ["Ante", "ArnoldC", "Befunge", "Binary lambda calculus", "Chef", "GolfScript", "Ook!"]
