@@ -20,8 +20,8 @@ def using_shift(arr)
 end
 
 def shift_with_args(arr)
-  arr.shift
-  arr.shift
+ newArr = arr.shift
+ 
 end
 
 # describe "#shift_with_args" do 
