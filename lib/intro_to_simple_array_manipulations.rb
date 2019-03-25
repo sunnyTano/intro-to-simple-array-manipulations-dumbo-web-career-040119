@@ -35,6 +35,8 @@ def using_uniq(arr)
 end 
 
 def using_flatten(arr)
+  arr.flatten
+end
 
 # describe "#using_flatten" do 
 #   it "takes in an argument of an array that contains other arrays and uses the flatten method to return an array of strings" do 
