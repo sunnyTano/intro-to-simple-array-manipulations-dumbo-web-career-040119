@@ -11,8 +11,9 @@ def using_pop(arr)
 end
 
 def pop_with_args(arr)
-  
-
+  arr.pop
+  arr.pop
+end
 # describe "#pop_with_args" do
 #   before(:each) do 
 #     @chars_in_game_of_thrones = ["Danny T.", "Tyrion Lannister", "Stable Boy", "Sandor Clegane"]
